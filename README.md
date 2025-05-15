@@ -7,9 +7,9 @@
 
 ### 🛠️ Tech Stack
 
-**Language:** JavaScript (learning TypeScript)  
-**UI Automation:** Cypress  
-**API Testing:** SuperTest, Postman + Newman  
+**Language:** JavaScript (+ TypeScript)  
+**UI Automation:** Playwright  
+**API Testing:** Postman + Newman, Playwright
 **Mobile Testing:** Appium (with WebDriverIO)  
 **Unit Testing:** Jest  
 **Mocking:** WireMock  
