@@ -7,8 +7,8 @@
 
 ### 🛠️ Tech Stack
 
-**Language:** JavaScript (+ TypeScript)  
-**UI Automation:** Playwright  
+**Language:** JavaScript (+ TypeScript), Python
+**UI Automation:** Playwright, WebdriverIO, Selenium  
 **API Testing:** Postman + Newman, Playwright
 **Mobile Testing:** Appium (with WebDriverIO)  
 **Unit Testing:** Jest  
